@@ -1,4 +1,6 @@
-# EmailAddressStrain
+# EmailAddressStrain 
+
+[![Build Status](https://travis-ci.com/crudy-ltd/email_address_strain.svg?branch=0.0.1)](https://travis-ci.com/crudy-ltd/email_address_strain)
 
 **TODO: Add description**
 
